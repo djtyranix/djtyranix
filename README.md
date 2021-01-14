@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to djtyranix' github repository! 👋
 
 <!--
 **djtyranix/djtyranix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![djtyranix's github stats](https://github-readme-stats.vercel.app/api?username=djtyranix&show_icons=true&text_color=1b262c&title_color=0f4c75&icon_color=bbe1fa&hide_border=true)
+![djtyranix's github stats](https://github-readme-stats.vercel.app/api?username=djtyranix&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djtyranix&layout=compact&text_color=1b262c&title_color=0f4c75&icon_color=bbe1fa&hide_border=true)
+![djtyranix's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djtyranix&layout=compact&theme=synthwave)
