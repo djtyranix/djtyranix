@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![djtyranix's github stats](https://github-readme-stats.vercel.app/api?username=djtyranix&show_icons=true&theme=synthwave)
 
-![djtyranix's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djtyranix&layout=compact&theme=synthwave&hide=assembly)
+![djtyranix's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djtyranix&layout=compact&theme=synthwave&exclude_repo=FP_SISOP20_D04&langs_count=8)
