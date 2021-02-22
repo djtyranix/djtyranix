@@ -1,4 +1,6 @@
-### Hi there, welcome to djtyranix' github repository! 👋
+# Hi there, welcome to my github repository! 👋
+## Michael Ricky
+🌱 I'm currently learning Android Programming through Google Bangkit 2021.
 
 <!--
 **djtyranix/djtyranix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
