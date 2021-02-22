@@ -1,5 +1,8 @@
 # Hi there, welcome to my github repository! 👋
 ## Michael Ricky
+
+Third-year Informatics student. A technology enthusiast and grows in it. I love to learn new things and applying them. I always look for new opportunities and knowledge so that I manage my time optimally and usefully.
+
 🌱 I'm currently learning Android Programming through Google Bangkit 2021.
 
 <!--
