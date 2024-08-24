@@ -1,9 +1,11 @@
-# Hi there, welcome to my github repository! 👋
-## Michael Ricky
+# Hi there, I'm Michael Ricky! 👋
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-ricky)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@mikeonstudio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mikeonstudio)
 
-A technology enthusiast and grows in it. I love to learn new things and applying them. I always look for new opportunities and knowledge so that I manage my time optimally and usefully.
+I am a technology enthusiast. Professionally, I do Mobile Programming and engineering, but I love music and games. I love to learn new things and apply them to solve more problems optimally.
 
-🌱 I'm currently learning iOS Programming in the Apple Developer Academy.
+🌱 I'm currently brewing magic at Atome Indonesia.
 
 <!--
 **djtyranix/djtyranix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
